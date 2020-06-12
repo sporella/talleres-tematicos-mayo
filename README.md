@@ -14,3 +14,5 @@ Taller a cargo de Javiera Riffo
 
 * [Proyecto de RStudio Cloud con el código y la presentación](https://rstudio.cloud/project/1309892)
 * [Video](https://vimeo.com/421945168)
+
+cosa
